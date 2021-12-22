@@ -1,3 +1,6 @@
+#Converter that determines the number of Russian coins by weight
+
+
 def num():
     x = input("Введите номинал монеты (1,2,5,10):")
     y = input ("Введите сколько рублей всего  в монетах ")
